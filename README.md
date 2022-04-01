@@ -1,5 +1,5 @@
 # Diabetes-prediction
-## Project Demo URL : https://frt-azure-2.azurewebsites.net
+## Project Demo URL : https://vaibhu.azurewebsites.net
 
 
 •This repository consists of files required to deploy a **Web App** created with **Flask on Microsoft Azure**.# diabetes_predictor The project helps the user to identify whether someone is suffering from diabetes by simply inputting certain values like BMI, Glucose level, Blood pressure etc. with the help of a Kaggle database.
